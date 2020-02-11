@@ -1,0 +1,18 @@
+10.4.10.31 red head dude 2 seats up
+10.4.10.32 ??
+10.4.10.33 rory
+10.4.10.35 ??
+10.4.10.36 Jon
+10.4.10.40 ??
+10.4.10.41 ??
+10.4.10.43 me
+10.4.10.45 Jimmy
+10.4.10.155 scott
+10.4.10.146 lindsey
+10.4.10.34 joe
+10.4.10.154 
+10.4.10.149 Lauren
+
+export DISPLAY=:0
+
+gsettings set org.gnome.desktop.background picture-uri 'https://i.imgur.com/GYMIY6f.jpg'
